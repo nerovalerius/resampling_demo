@@ -7,4 +7,6 @@ The second row shows the upsampled signal and spectrum and the third row shows t
 
 Use the slider to down- / upsample and use the checkboxes to activate down- / upsampling.
 
-![](images/screenshot.jpg, width=500)
+
+
+![](images/screenshot.jpg)
